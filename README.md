@@ -21,7 +21,7 @@
 </div>
 <br/>
 
-💻 Estudante em desenvolvedor Web, apaixonado por compartilhar conhecimento e ajudar pessoas a entrarem no mundo da programação.
+💻 Estudante na escola TreinaWeb com desejo de tornar-me programador FullStack, apaixonado por compartilhar conhecimento e ajudar pessoas a entrarem no mundo da programação.
 
 
 
