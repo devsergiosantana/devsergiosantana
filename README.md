@@ -3,7 +3,7 @@
 
 [![Site](https://img.shields.io/website?label=devsergiosantana.com.br&style=for-the-badge&url=https://devsergiosantana.com.br/)](https://devsergiosantana.com.br)
 
-![Sergio Santana GitHub stats](https://github-readme-stats.vercel.app/api?username=devserginhosantana&show_icons=true&theme=dracula)
+![Sergio Santana GitHub stats](https://github-readme-stats.vercel.app/api?username=devserginhosantana&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devserginhosantana&layout=compact)
 
