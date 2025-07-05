@@ -1,4 +1,4 @@
-### Sérgio Santana aqio :)
+### Sérgio Santana aqui :)
 
 # 📊 Portfólio de Estudos em Python, MySQL, PostgreSQL e Análise de Dados
 
