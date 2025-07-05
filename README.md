@@ -1,6 +1,6 @@
 ### Sérgio Santana aqui :)
 
-Bem-vindo(a) ao meu repositório de estudos! Aqui você encontrará projetos e exercícios que desenvolvi durante minha jornada de aprendizado em **programação com Python**, **Bancos de Dados Relacionais (MySQL e PostgreSQL)** e **Análise de Dados**.
+Bem-vindo(a) ao meu repositório de estudos! Aqui você encontrará projetos que desenvolvi durante minha jornada de aprendizado em **programação com Python**, **Bancos de Dados Relacionais (MySQL e PostgreSQL)** e **Análise de Dados**.
 
 ## 🚀 Tecnologias e Ferramentas
 
