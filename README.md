@@ -10,7 +10,7 @@ Bem-vindo(a) ao meu repositório de estudos! Aqui você encontrará projetos e e
 ## 🖥️ Atualmente mais focado em:
 <div style = "display: inline">
  <img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />            
- <img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-line-wordmark.svg" />                   
+ <img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />                             
  <img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
  <img width = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />    
 </div>
